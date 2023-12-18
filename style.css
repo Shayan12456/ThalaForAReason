@@ -1,0 +1,27 @@
+body{
+    background-color: #133f7e;
+    color: rgba(255, 255, 255, 8);
+    margin-left: 1rem;
+}
+img{
+    display: none;
+}
+.content{
+    display: flex;
+    flex-wrap: wrap;
+}
+input{
+    width: 20rem;
+    height: 3.5rem;
+    border-radius: 2rem;
+    border: none;
+    padding: 0.75rem;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+}
+.restart{
+    display: none;
+}
+audio{
+    visibility: hidden;
+}
